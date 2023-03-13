@@ -7,8 +7,3 @@ Geometric sans serif typefaces have been a popular design element ever since the
 Amoeba Sans is a geometric typeface designed to meet the needs of amoeba’s digital products. This font are designed to be thick and strong so that it fits into a headline text and is able to get people's attention. With wide proportions, this typeface is able to present comfortable visuals in the form of body text and display. Comes with eight weights & 16 styles, and can be an all arounder typeface. This typeface are develop based on Poppins, design by Indian Typefoundry, Jonny Pinhorn. Amoeba Sans family includes five weights, from Light through Bold. Each font includes 1014 glyphs. 
 
 Amoeba Sans were designed by Vidiantara Saputra. Digital Amoeba first published Amoeba Sans in 2023, based on The Poppins Family by Jonny Pinhorn, Indian Typefoundry.
-
-## Dependencies
-
-(To be specified.)
-
