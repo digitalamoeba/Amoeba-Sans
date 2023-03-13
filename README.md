@@ -1,13 +1,14 @@
-# Poppins
+# Amoeba Sans
 
-During the 1920s, Central European type foundries joined the modernists movements in art and design. Modernism was truly international in scope; only three years after the founding of the German Bauhaus school, several of its painting instructors were already exhibiting their work in Calcutta.
+Digital Amoeba is Corporate Innovation Lab by Telkom Indonesia that incubate and accelerate ideas from its employees which create digital innovation and digital talents.
 
-Geometric sans serif typefaces have been a popular design element ever since these actors took to the world’s stage. Poppins is one of the newest comer to this long tradition. An open source family supporting both Devanagari and Latin, this typeface is an internationalist take on the geometric sans genre. Many of the Latin glyphs — the ampersand, for instance — are far more constructed and rationalist than in previously released geometric typefaces. Poppins’s Devanagari design is particularly new. It is likely the first-ever large Devanagari family in this style that has been brought to market.
+Geometric sans serif typefaces have been a popular design element ever since these actors took to the world’s stage. Poppins is one of the newest comer to this long tradition. Then Digital Amoeba followed this long tradition when developing Amoeba Sans by modifying the Poppins font. So in 2022, Digital Amoeba is carrying out a rebranding process by prioritizing the acceleration of innovation patterns, therefore a typefaces is needed to be able describe the spirit of innovation from Digital Amoeba itself. Thus Amoeba Sans was born as one of the Collateral Brands of Digital Amoeba itself. 
 
-The Poppins family includes five weights, from Light through Bold. Each font includes 1014 glyphs, including all of the unique conjunct forms necessary for typesetting Indian languages like Hindi, Marathi, Nepali, etc. Just like the Latin glyphs, the Devanagari forms in Poppins are based pure geometry (particularly circles). Poppins’s letters are practically monolinear, although optical corrections have been applied to stroke joints where necessary, to maintain an even colour in text. The Devanagari base character height and the Latin ascender height are equal; Latin capital letters are shorter than the Devanagari characters, and the Latin x-height is set rather high.
+Amoeba Sans is a geometric typeface designed to meet the needs of amoeba’s digital products. This font are designed to be thick and strong so that it fits into a headline text and is able to get people's attention. With wide proportions, this typeface is able to present comfortable visuals in the form of body text and display. Comes with eight weights & 16 styles, and can be an all arounder typeface. This typeface are develop based on Poppins, design by Indian Typefoundry, Jonny Pinhorn. Amoeba Sans family includes five weights, from Light through Bold. Each font includes 1014 glyphs. 
 
-The Devanagari glyphs in Poppins were designed by Ninad Kale. The Latin is from Jonny Pinhorn. The Indian Type Foundry first published Poppins in 2014.
+Amoeba Sans were designed by Vidiantara Saputra. Digital Amoeba first published Amoeba Sans in 2023, based on The Poppins Family by Jonny Pinhorn, Indian Typefoundry.
 
 ## Dependencies
 
 (To be specified.)
+
